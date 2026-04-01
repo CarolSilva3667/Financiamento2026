@@ -7,8 +7,8 @@ qual seria a taxa de juros para aquele valor e qual será o valor das taxas adic
 
 ## Prints
 ![Inicio](https://github.com/user-attachments/assets/865ba677-90cf-4840-b343-b25a3ce370d0)
-![Resultado](https://github.com/user-attachments/assets/d3f992b4-e9ac-4c03-981b-3f9f2cb35ef5)
 ![Simulação](https://github.com/user-attachments/assets/26cbcfaf-cb9a-4957-a1fd-b5a3a9d92d9f)
+![Resultado](https://github.com/user-attachments/assets/d3f992b4-e9ac-4c03-981b-3f9f2cb35ef5)
 
 ## Tecnologias
 - Vs Code;
