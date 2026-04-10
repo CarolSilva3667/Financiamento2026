@@ -15,6 +15,7 @@ qual seria a taxa de juros para aquele valor e qual será o valor das taxas adic
 - Dart;
 - Chrome (web.javascript);
 - Figma;
+- Flutter;
 
 ## Como Executar
 1. Abra o Vs Code;
